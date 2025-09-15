@@ -3,6 +3,7 @@
 Hello World
 
 (The name is still a work in progress)
+
 This is going to be a choice-based adventure game focused on interactive storytelling with multiple paths and endings.
 Exploration mechanics will be included to add immersion, but the story is the core experience.
 
